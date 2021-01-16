@@ -1,5 +1,5 @@
-window.addEventListener('load', function() {
-    document.getElementById("text").onclick = function(event) {
+document.addEventListener("DOMContentLoaded", () => {
+    document.getElementById("comment").onclick = (event) => {
         alert("We don't have this feature yet!");
     };
 });
