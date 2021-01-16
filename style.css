@@ -1,12 +1,15 @@
+html {
+    font-size: 62.5%;
+}
 body {
     background-image: url(http://hdwpro.com/wp-content/uploads/2019/09/Super-Ocean-Image.jpg);
-    /* background-color: grey; */
-    background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
+    background-position: center;
 }
 h1 {
     font-family: sans-serif;
-    font-size: large;
+    font-size: 2rem;
 }
 .text {
     max-width: 50%;
